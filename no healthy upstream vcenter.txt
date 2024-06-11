@@ -1,0 +1,9 @@
+ERROR no healthy upstream vcenter !
+
+Login To your VCSA CMD
+ALT F!
+
+User: root
+Password: Your Password :)
+Then Write This CMD
+service-control --start --all
